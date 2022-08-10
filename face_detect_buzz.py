@@ -100,7 +100,9 @@ while True:
     key=cv2.waitKey(1)
     if (status=="SLEEPING ! ! !"):
         GPIO.output(11,GPIO.HIGH)
+	#print("high")
     else:
         GPIO.output(11,GPIO.LOW)
+	#print("low")
     if key==27: #use esc key to stop
         break
