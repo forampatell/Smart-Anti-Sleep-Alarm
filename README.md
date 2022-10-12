@@ -120,6 +120,9 @@ Save the .dat file in the same folder you saved your .py file to excute the code
 
 - https://drive.google.com/file/d/1DkjrepOF7uCobJLAT7v4jgRsTLoXQpJY/view?usp=sharing
 
+Image of the 68 face landmarks -
+- https://www.researchgate.net/publication/329392737/figure/fig2/AS:731613625335813@1551441689799/The-68-landmarks-detected-by-dlib-library-This-image-was-created-by-Brandon-Amos-of-CMU.ppm
+
 
 Now open the commandprompt and give the following commands-
 - Copy the folder location
